@@ -11,7 +11,8 @@ body {
   /* flex-direction: column; */
   /* gap: 2rem; */
   padding-top: 15%;
-  background-color: gray;
+  
+  background-color: rgb(138, 48, 48);
 }
 h1 {
   font-size: 100px;
@@ -20,6 +21,6 @@ h1 {
   color: rgb(38, 77, 77);
 }
 
-.colorClass{
+.colorClass {
   color: rgb(157, 157, 237);
 }

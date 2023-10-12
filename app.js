@@ -503,5 +503,5 @@ const otherData = fetch("someData.json").then(function (resp) {
 });
 console.log(otherData);
 
-
+let x = 10
 
