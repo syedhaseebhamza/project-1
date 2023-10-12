@@ -1,0 +1,11 @@
+{
+  "name": "haseeb",
+  "age": 23,
+  "islogIn": true,
+  "eduction": ["M", "C", "G"],
+  "lag": {
+    "basic": "c",
+    "hard": "c++",
+    "veryhard": "JS"
+  }
+}

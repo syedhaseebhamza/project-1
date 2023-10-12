@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* flex-direction: column; */
+  /* gap: 2rem; */
+  padding-top: 15%;
+  background-color: gray;
+}
+h1 {
+  font-size: 100px;
+  font-family: sans-serif;
+  font-style: italic;
+  color: rgb(38, 77, 77);
+}
+
+.colorClass{
+  color: rgb(157, 157, 237);
+}
